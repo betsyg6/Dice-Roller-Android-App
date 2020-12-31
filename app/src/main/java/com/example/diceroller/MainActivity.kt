@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
             rollDice()
         }
     }
-
+    //random number generator
     private fun rollDice() {
        val resultText: TextView = findViewById(R.id.result_text)
 
